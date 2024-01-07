@@ -17,7 +17,9 @@ For WeatherPy, I employed Python scripts in a Jupyter notebook to visualize weat
 -    Conducted linear regression analysis for each relationship. Splitting plots into Northern and Southern Hemispheres for better analysis.
 
 -    Explored relationships like Temperature, Humidity, Cloudiness, and Wind Speed against Latitude in both hemispheres. Example:
-![Uploading ScatterPlot_2n.png…]()
+
+![ScatterPlot_2n](https://github.com/MarcoN16/python-api-challenge/assets/150491559/58ca68db-2716-4539-ac56-9d1280717b77)
+
 
 ![ScatterPlot_2s](https://github.com/MarcoN16/python-api-challenge/assets/150491559/831540c2-1047-4740-b037-528c7eee470b)
 
