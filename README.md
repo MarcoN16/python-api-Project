@@ -18,8 +18,8 @@ For WeatherPy, I employed Python scripts in a Jupyter notebook to visualize weat
 
 -    Explored relationships like Temperature, Humidity, Cloudiness, and Wind Speed against Latitude in both hemispheres. Example:
 ![Uploading ScatterPlot_2n.png…]()
-![ScatterPlot_2s](https://github.com/MarcoN16/python-api-challenge/assets/150491559/98d7ff93-f1a3-40c9-8a38-c2f451fa5e45)
 
+![ScatterPlot_2s](https://github.com/MarcoN16/python-api-challenge/assets/150491559/831540c2-1047-4740-b037-528c7eee470b)
 
 
 ## Part 2: VacationPy
